@@ -112,20 +112,14 @@ Alternatively, in Syria, it is akin to **sending an encrypted message through a 
 
 ---
 ### Sitography
-https://www.journalofdemocracy.org/articles/authoritarianism-goes-global-cyberspace-under-siege
 
-https://kirj.ee/trames-publications/?filter%5Byear%5D=2023&filter%5Bissue%5D=1466&filter%5Bpublication%5D=12551&v=cd32106bcb6d
-
-https://www.cogitatiopress.com/mediaandcommunication/article/view/357/0
-
-https://freedomhouse.org/country/syria/freedom-net/2020
-
-https://www.civil-military-studies.org.il/wp-content/uploads/2020/02/Dark-and-Deep-Webs-Liberty-or-Abuse-Lev-Topor.pdf
-
-https://www.researchgate.net/publication/282612470_The_Dark_Web_Dilemma_Tor_Anonymity_and_Online_Policing
-
-https://academic.oup.com/isq/article-abstract/65/4/1163/6309157?redirectedFrom=fulltext&login=false
-
+[![Journal of Democracy](https://img.shields.io/badge/Journal%20of%20Democracy–Authoritarianism%20Goes%20Global-blue)](https://www.journalofdemocracy.org/articles/authoritarianism-goes-global-cyberspace-under-siege)  
+[![Trames Publications](https://img.shields.io/badge/Trames%20Publications–2023%20Issue%201466-purple)](https://kirj.ee/trames-publications/?filter%5Byear%5D=2023&filter%5Bissue%5D=1466&filter%5Bpublication%5D=12551&v=cd32106bcb6d)  
+[![Cogitatio Press](https://img.shields.io/badge/Cogitatio%20Press–Media&Communication%20357-lightgrey)](https://www.cogitatiopress.com/mediaandcommunication/article/view/357/0)  
+[![Freedom House – Syria](https://img.shields.io/badge/Freedom%20House–Syria%20Freedom%20on%20the%20Net-red)](https://freedomhouse.org/country/syria/freedom-net/2020)  
+[![Civil-Military Studies – Dark & Deep Webs](https://img.shields.io/badge/Civil-Military%20Studies–Dark%20and%20Deep%20Webs-green)](https://www.civil-military-studies.org.il/wp-content/uploads/2020/02/Dark-and-Deep-Webs-Liberty-or-Abuse-Lev-Topor.pdf)  
+[![ResearchGate – The Dark Web Dilemma](https://img.shields.io/badge/ResearchGate–The%20Dark%20Web%20Dilemma-blue)](https://www.researchgate.net/publication/282612470_The_Dark_Web_Dilemma_Tor_Anonymity_and_Online_Policing)  
+[![Oxford Academic – ISQ](https://img.shields.io/badge/Oxford%20Academic–ISQ%20Vol%2065%20No%204-orange)](https://academic.oup.com/isq/article-abstract/65/4/1163/6309157?redirectedFrom=fulltext&login=false)
 
 ---
 ### A Video That I Create About That
