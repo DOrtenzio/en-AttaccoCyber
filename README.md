@@ -15,7 +15,8 @@ Questo `README.md` funge da **indice principale** e punto d'ingresso per navigar
 ├─ docs/
 │  ├─ cyber-attack.md
 │  ├─ dark-web.md
-|  └─ evolution-web.md
+|  ├─ evolution-web.md
+|  └─ ia-emotions.md
 ├─ templates/
 │  └─ template.md
 └─ CONTRIBUTING.md
@@ -34,7 +35,11 @@ Questo `README.md` funge da **indice principale** e punto d'ingresso per navigar
 
 - ### 🌵 [03 - Evolution of the Web](docs/evolution-web.md)  
   *L'evoluzione del web nel corso del tempo, analizzando in particolare il web 2.0 - 3.0 - 4.0.*
+Ecco alcune opzioni in stile simile per descrivere il file tradotto:
 
+- ### 🤖 [04 - AI Capisce i Sentimenti](docs/ai-emotions.md)  
+  *Analisi tecnica sulla capacità dell'IA di comprendere le emozioni umane, con casi pratici e riflessioni etiche.*
+  
 ---
 
 ## 🤝 Contribuire
