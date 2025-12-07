@@ -16,7 +16,8 @@ Questo `README.md` funge da **indice principale** e punto d'ingresso per navigar
 │  ├─ cyber-attack.md
 │  ├─ dark-web.md
 |  ├─ evolution-web.md
-|  └─ ia-emotions.md
+|  ├─ ia-emotions.md
+|  └─ industrial-revolution.md
 ├─ templates/
 │  └─ template.md
 └─ CONTRIBUTING.md
@@ -39,6 +40,9 @@ Ecco alcune opzioni in stile simile per descrivere il file tradotto:
 
 - ### 🤖 [04 - AI Capisce i Sentimenti](docs/ia-emotions.md)  
   *Analisi tecnica sulla capacità dell'IA di comprendere le emozioni umane, con casi pratici e riflessioni etiche.*
+
+- ### 🏭 [05 - Rivoluzioni Industriali](docs/industrial-revolution.md)  
+  *Analisi di innovazioni e tecnologie delle rivoluzioni industriali. (1-2-3)*
   
 ---
 
